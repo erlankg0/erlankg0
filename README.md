@@ -10,10 +10,13 @@
      <ul>
        <li><img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/></li>
        <li><img src="https://img.shields.io/badge/CSS3-Black?style=for-the-badge&logo=CSS3&logoColor=White"/></li>
-       <li><img src="https://img.shields.io/badge/SQL-Black?style=for-the-badge&logo=SQL&logoColor=White"/></li>
+       <li><img src="https://img.shields.io/badge/SQL-Black?style=for-the-badge&logo=PostgreSQL&logoColor=White"/></li>
     </ul>
   </li>
  <li>• Уверенное владение языком Python.</li>
+  <ul>
+    <li><img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/></li>
+  </ul>
  <li>• Опыт использования основных Python фреймворков для создания веб приложений.</li>
  <li>• Опыт использования технологий: Git, Django, Django Rest Framework.</li>
  <li>• Знакомство с основными структурами данных и алгоритмами.</li>
