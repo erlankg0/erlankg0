@@ -9,6 +9,8 @@
   <li>
      <ul>
        <li><img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/></li>
+       <li><img src="https://img.shields.io/badge/CSS3-Black?style=for-the-badge&logo=CSS3&logoColor=White"/></li>
+       <li><img src="https://img.shields.io/badge/SQL-Black?style=for-the-badge&logo=SQL&logoColor=White"/></li>
     </ul>
   </li>
  <li>• Уверенное владение языком Python.</li>
