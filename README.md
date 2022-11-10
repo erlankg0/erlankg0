@@ -5,7 +5,7 @@
 
 <h2>Основные навыки:</h2>
 <ul>
-  <li>• Владение <li><img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/></li>/<li><img src="https://img.shields.io/badge/CSS3-Black?style=for-the-badge&logo=CSS3&logoColor=White"/></li>/ <li><img src="https://img.shields.io/badge/SQL-Black?style=for-the-badge&logo=PostgreSQL&logoColor=White"/></li> на базовом уровне.</li>
+  <li>• Владение <img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/>/<img src="https://img.shields.io/badge/CSS3-Black?style=for-the-badge&logo=CSS3&logoColor=White"/>/<img src="https://img.shields.io/badge/SQL-Black?style=for-the-badge&logo=PostgreSQL&logoColor=White"/> на   базовом уровне.</li>
  <li>• Уверенное владение языком <img src="https://img.shields.io/badge/Python-Green?style=for-the-badge&logo=Python&logoColor=Black"/></li>
  <li>• Опыт использования основных Python фреймворков для создания веб приложений.</li>
  <li>• Опыт использования технологий: Git, Django, Django Rest Framework.</li>
