@@ -7,8 +7,8 @@
 <ul>
   <li>• Владение <img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/>/<img src="https://img.shields.io/badge/CSS3-Black?style=for-the-badge&logo=CSS3&logoColor=White"/>/<img src="https://img.shields.io/badge/SQL-Black?style=for-the-badge&logo=PostgreSQL&logoColor=White"/> на   базовом уровне.</li>
  <li>• Уверенное владение языком <img src="https://img.shields.io/badge/Python-Green?style=for-the-badge&logo=Python&logoColor=Black"/></li>
- <li>• Опыт использования основных Python фреймворков для создания веб приложений.</li>
- <li>• Опыт использования технологий: Git, Django, Django Rest Framework.</li>
+ <li>• Опыт использования основных  <img src="https://img.shields.io/badge/Python-Green?style=for-the-badge&logo=Python&logoColor=Black"/> фреймворков для создания веб приложений.</li>
+ <li>• Опыт использования технологий:  <img src="https://img.shields.io/badge/Git-Green?style=for-the-badge&logo=Git&logoColor=Black"/>,  <img src="https://img.shields.io/badge/Django-Green?style=for-the-badge&logo=Django&logoColor=Black"/>, Django Rest Framework.</li>
  <li>• Знакомство с основными структурами данных и алгоритмами.</li>
  <li>• Применение ООП и функционального стиля программирования.</li>
  <li>• Английский на уровне чтения документации, прослушивание видео материалов.</li>
