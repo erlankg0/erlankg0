@@ -6,6 +6,11 @@
 <h2>Основные навыки:</h2>
 <ul>
   <li>• Владение HTML/CSS/SQL на базовом уровне.</li>
+  <li>
+     <ul>
+       <li><img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/></li>
+    </ul>
+  </li>
  <li>• Уверенное владение языком Python.</li>
  <li>• Опыт использования основных Python фреймворков для создания веб приложений.</li>
  <li>• Опыт использования технологий: Git, Django, Django Rest Framework.</li>
