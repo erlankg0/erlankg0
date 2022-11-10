@@ -5,18 +5,8 @@
 
 <h2>Основные навыки:</h2>
 <ul>
-  <li>• Владение HTML/CSS/SQL на базовом уровне.</li>
-  <li>
-     <ul>
-       <li><img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/></li>
-       <li><img src="https://img.shields.io/badge/CSS3-Black?style=for-the-badge&logo=CSS3&logoColor=White"/></li>
-       <li><img src="https://img.shields.io/badge/SQL-Black?style=for-the-badge&logo=PostgreSQL&logoColor=White"/></li>
-    </ul>
-  </li>
- <li>• Уверенное владение языком Python.</li>
-  <ul>
-    <li><img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/></li>
-  </ul>
+  <li>• Владение <li><img src="https://img.shields.io/badge/HTML5-Black?style=for-the-badge&logo=HTML5&logoColor=White"/></li>/<li><img src="https://img.shields.io/badge/CSS3-Black?style=for-the-badge&logo=CSS3&logoColor=White"/></li>/ <li><img src="https://img.shields.io/badge/SQL-Black?style=for-the-badge&logo=PostgreSQL&logoColor=White"/></li> на базовом уровне.</li>
+ <li>• Уверенное владение языком <img src="https://img.shields.io/badge/Python-Green?style=for-the-badge&logo=Python&logoColor=Black"/></li>
  <li>• Опыт использования основных Python фреймворков для создания веб приложений.</li>
  <li>• Опыт использования технологий: Git, Django, Django Rest Framework.</li>
  <li>• Знакомство с основными структурами данных и алгоритмами.</li>
@@ -34,7 +24,6 @@
 • Настольный теннис
 • Компьютерные игры
 
-<img src="https://img.shields.io/badge/Python-Green?style=for-the-badge&logo=Python&logoColor=Black"/>
 
 <!--
 **erlankg0/erlankg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
