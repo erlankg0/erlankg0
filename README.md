@@ -27,7 +27,11 @@
 <ul>
  <li>• Программирование</li>
  <li>• Настольный теннис</li>
- <li>• Компьютерные игры</li>
+  <li>• Компьютерные игры</li>
+</ul>
+<h2>Социальные сети:</h2>
+<span><a href="youtube.com" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=Black"/></a></span>
+ 
 </ul>
 
 <!--
